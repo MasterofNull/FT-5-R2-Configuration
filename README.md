@@ -1,4 +1,4 @@
-# FT-5-R2-Configuration
+# FT-5 Configuration and PrusaSlicer Integration 
 
 ## Marlin 2.1.1 Config Files:
 Use the Configuration.h and Configuration_adv.h to replace the similar files for the Marlin 2.1.1 build.
